@@ -1,0 +1,6 @@
+Vao terminal:
+npm init -> khoi tao project chua module init
+
+npm i --S express -> down thu vien node_modules
+
+npm i --save hbs
